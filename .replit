@@ -1,0 +1,5 @@
+[nix]
+packages = ["maven", "zulu8"]
+
+[agent]
+expertMode = true
