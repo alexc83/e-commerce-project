@@ -8,7 +8,7 @@ import java.util.Date;
 public class Product {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     private String name;
@@ -19,6 +19,21 @@ public class Product {
     private Date releaseDate;
     private Boolean productAvailable;
     private int stockQuantity;
+
+    public Product() {}
+
+    public Product(Long id, String name, String description, String brand, BigDecimal price,
+                   String category, Date releaseDate, Boolean productAvailable, int stockQuantity) {
+        this.id = id;
+        this.name = name;
+        this.description = description;
+        this.brand = brand;
+        this.price = price;
+        this.category = category;
+        this.releaseDate = releaseDate;
+        this.productAvailable = productAvailable;
+        this.stockQuantity = stockQuantity;
+    }
 
     public Long getId() { return id; }
     public void setId(Long id) { this.id = id; }
