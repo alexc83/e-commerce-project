@@ -35,8 +35,8 @@ hs_err_pid*
 # ==========================================
 # Never commit third-party packages or production build outputs to git
 node_modules/
-/build/
-/dist/
+build/
+dist/
 .npm
 .eslintcache
 
