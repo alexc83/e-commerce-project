@@ -1,0 +1,66 @@
+# ==========================================
+# 1. System & OS Specific Files
+# ==========================================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# ==========================================
+# 2. Replit Specific Files
+# ==========================================
+# Keep .replit and replit.nix tracked so your environment builds properly,
+# but ignore private configuration tokens, history, or temporary caching.
+.replit-config/
+.upm/
+.breakpoints/
+
+# ==========================================
+# 3. Java & Maven (Spring Boot Backend)
+# ==========================================
+# Ignore target directories containing compiled .class files and built JARs
+target/
+*.jar
+*.war
+*.ear
+
+# Crash logs
+hs_err_pid*
+
+# Optional: If you use the Maven wrapper locally
+.mvn/wrapper/maven-wrapper.properties
+
+# ==========================================
+# 4. Node.js & npm (React Frontend)
+# ==========================================
+# Never commit third-party packages or production build outputs to git
+node_modules/
+/build/
+/dist/
+.npm
+.eslintcache
+
+# ==========================================
+# 5. Security, Secrets & Environment Keys
+# ==========================================
+# Wipes out local variable scripts or raw keystore configurations
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+*.keystore
+*.jks
+*.p12
+
+# ==========================================
+# 6. Desktop IDE Configurations (For Later)
+# ==========================================
+# Keeps your workspace pristine if you open this project in desktop IDEs later
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
