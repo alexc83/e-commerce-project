@@ -2,3 +2,6 @@
 /home/runner/workspace/backend/src/main/java/com/ccruce/ecom_demo/controller/HelloController.java
 /home/runner/workspace/backend/src/main/java/com/ccruce/ecom_demo/controller/ProductController.java
 /home/runner/workspace/backend/src/main/java/com/ccruce/ecom_demo/model/Product.java
+/home/runner/workspace/backend/src/main/java/com/ccruce/ecom_demo/repository/ProductRepository.java
+/home/runner/workspace/backend/src/main/java/com/ccruce/ecom_demo/service/ProductService.java
+/home/runner/workspace/backend/src/main/java/com/ccruce/ecom_demo/service/ProductServiceImpl.java
