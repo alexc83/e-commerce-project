@@ -1,22 +1,5 @@
-modules = ["nodejs-20"]
 [nix]
-packages = ["maven"]
-channel = "stable-25_05"
+packages = ["maven", "zulu8"]
 
 [agent]
 expertMode = true
-
-[[ports]]
-localPort = 5173
-externalPort = 5173
-exposeLocalhost = true
-
-[[ports]]
-localPort = 8080
-externalPort = 80
-
-
-<<<<<<< HEAD
-[userenv.shared]
-=======
->>>>>>> a09d3af04f634ad414b19041cb9e26f15694b99c
