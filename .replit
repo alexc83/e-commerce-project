@@ -1,6 +1,10 @@
 [nix]
-packages = ["maven", "zulu8"]
+packages = ["maven"]
 channel = "stable-25_05"
 
 [agent]
 expertMode = true
+
+[[ports]]
+localPort = 8080
+externalPort = 80
