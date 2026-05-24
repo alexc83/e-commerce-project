@@ -8,8 +8,6 @@ expertMode = true
 
 [[ports]]
 localPort = 5173
-externalPort = 3003
-exposeLocalhost = true
 
 [[ports]]
 localPort = 8080
