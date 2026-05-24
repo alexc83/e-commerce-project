@@ -1,2 +1,3 @@
 /home/runner/workspace/backend/src/main/java/com/ccruce/ecom_demo/EcomDemoApplication.java
 /home/runner/workspace/backend/src/main/java/com/ccruce/ecom_demo/controller/HelloController.java
+/home/runner/workspace/backend/src/main/java/com/ccruce/ecom_demo/controller/ProductController.java
