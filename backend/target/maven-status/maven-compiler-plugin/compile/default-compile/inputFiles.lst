@@ -1,7 +1,7 @@
-/Users/alexc/Programming/spring/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/EcomDemoApplication.java
-/Users/alexc/Programming/spring/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/controller/HelloController.java
-/Users/alexc/Programming/spring/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/controller/ProductController.java
-/Users/alexc/Programming/spring/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/model/Product.java
-/Users/alexc/Programming/spring/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/repository/ProductRepository.java
-/Users/alexc/Programming/spring/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/service/ProductService.java
-/Users/alexc/Programming/spring/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/service/ProductServiceImpl.java
+/workspaces/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/EcomDemoApplication.java
+/workspaces/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/controller/HelloController.java
+/workspaces/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/controller/ProductController.java
+/workspaces/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/model/Product.java
+/workspaces/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/repository/ProductRepository.java
+/workspaces/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/service/ProductService.java
+/workspaces/e-commerce-project/backend/src/main/java/com/ccruce/ecom_demo/service/ProductServiceImpl.java
